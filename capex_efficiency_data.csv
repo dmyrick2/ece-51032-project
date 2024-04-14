@@ -1,0 +1,8 @@
+equipment, capex_tph_t, efficiency, efficiency_unit ramp_down_hour_percent, ramp_up_hour_percent, min_turndown_percent, max_cycles_year
+electrolyser_pem, 1400000,  51, kwh_kg, 100, 100, 15, 99999
+electrolyser_ael, 1200000,  55, kwh_kg, 100, 100, 20, 99999
+compressor, 100000, 4, kwh_kg, 100, 100, 30, 99999
+liquefaction, 2000000, 9, kwh_kg, 10, 10, 45, 99999
+saltdome_storage, 20000, 1, kg_kg, 100, 100, 0, 99999
+gh2_storage, 2500000, 1, kg_kg, 100, 100, 0, 99999
+lh2_storage, 200000, 1, kg_kg, 100, 100, 0, 99999
