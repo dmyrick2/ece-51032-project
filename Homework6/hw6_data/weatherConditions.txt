@@ -1,0 +1,30 @@
+'Light Drizzle': 7
+'Mostly Cloudy': 3
+'Unknown': 10
+'Snow': 11
+'Haze': 12
+'Fog': 15
+'Shallow Fog': 26
+'Light Snow': 2
+'Scattered Clouds': 4
+'Light Freezing Rain': 14
+'Light Rain': 1
+'Thunderstorm': 21
+'Rain': 9
+'Light Freezing Fog': 24
+'Light Thunderstorms and Rain': 16
+'Patches of Fog': 23
+'Heavy Snow': 25
+'Light Rain Showers': 13
+'Clear': 6
+'Overcast': 0
+'Heavy Thunderstorms and Rain': 22
+'Sand': 28
+'Heavy Rain': 8
+'Thunderstorms and Rain': 17
+'Partly Cloudy': 5
+'Light Ice Pellets': 19
+'Mist': 27
+'Light Freezing Drizzle': 18
+'Drizzle': 20
+
